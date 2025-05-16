@@ -1,5 +1,5 @@
 # Filter network traffic to resources in Azure virtual network with a Network Security Group
-![Overview](https://i.imgur.com/O5tXnwv.jpg)
+![Overview](https://i.imgur.com/9uvZj62.jpg)
 - Create an Application Security Group (ASG).  
 - Create a Network Security Group (NSG).  
 - Associate the NSG with a virtual network subnet.  
